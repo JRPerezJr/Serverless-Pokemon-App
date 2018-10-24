@@ -1,4 +1,4 @@
-# Serverless-Pokemon-App
+# Serverless-Pokemon-RESTful API 
 # My first Serverless Pokemon RESTful API built with the Serverless framework and MySQL.
 
 #	ENDPOINT	METHOD	DESCRIPTION
